@@ -11,6 +11,7 @@ a few freemium tools like:
 
 and a few open source ones:
 
+* [KrakenD](http://krakend.io/)
 * [tyk](http://tyk.io/)
 * [kong](http://getkong.org/)
 * [ApiAxle](http://apiaxle.com/)
