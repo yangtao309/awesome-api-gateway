@@ -8,6 +8,7 @@ a few freemium tools like:
 * [mashape](http://mashape.com/)
 * [apiary](http://apiary.io/)
 * [3scale.net](http://3scale.net/)
+* [Zuplo](https://zuplo.com)
 
 and a few open source ones:
 
